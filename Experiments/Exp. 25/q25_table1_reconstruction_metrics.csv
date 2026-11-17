@@ -1,0 +1,8 @@
+Metric,Value
+MSE: clean input reconstruction,0.0893
+Flag accuracy: clean input reconstruction,88.05%
+MSE: corrupted input vs clean target,0.1048
+Flag accuracy: corrupted input before RBM,90.08%
+Flag accuracy: corrupted input after RBM,86.25%
+Corrupted flags restored to original value,73.39%
+Hidden components,8

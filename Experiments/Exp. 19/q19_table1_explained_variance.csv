@@ -1,0 +1,7 @@
+Principal_Component,Eigenvalue (Var),Explained_Variance_Ratio,Cumulative_Variance_Ratio
+PC_1,2.6006,0.4315,0.4315
+PC_2,2.2997,0.3815,0.813
+PC_3,1.0021,0.1663,0.9793
+PC_4,0.0814,0.0135,0.9928
+PC_5,0.0263,0.0044,0.9971
+PC_6,0.0172,0.0029,1.0

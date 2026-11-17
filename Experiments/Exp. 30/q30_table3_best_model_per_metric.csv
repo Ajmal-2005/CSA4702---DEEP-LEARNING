@@ -1,0 +1,8 @@
+Metric,Better_Model
+Reconstruction MSE (paired),VAE
+Nearest-neighbour MSE,VAE
+Sample diversity (closest to real),VAE
+Frechet distance,GAN
+Precision,VAE
+Recall,GAN
+Bootstrap stability (lower std),GAN

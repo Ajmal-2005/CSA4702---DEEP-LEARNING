@@ -1,0 +1,4 @@
+Model,Reconstruction_MSE (paired),Nearest_Neighbour_MSE,Sample_Diversity,Frechet_Distance
+Real Ground Truth,0.0,0.0,1.213,0.0
+Variational Autoencoder (VAE),0.068,0.0158,1.177,0.0593
+Generative Adversarial Net (GAN),1.2237,0.0199,1.426,0.0497

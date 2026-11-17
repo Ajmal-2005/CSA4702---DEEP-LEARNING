@@ -1,0 +1,3 @@
+Component,Final_Loss,Mean_Loss_Last_500,Trend,Status
+Discriminator,0.4882,0.5367,Increasing,Not at equilibrium
+Generator,1.348,1.2071,Stable,Active gradient

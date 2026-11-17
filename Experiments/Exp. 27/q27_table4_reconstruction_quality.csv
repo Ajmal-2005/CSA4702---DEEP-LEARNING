@@ -1,0 +1,6 @@
+Metric,Value
+Reconstruction MSE (pixel level),0.0079
+Mean pixel value: real textures,0.4495
+Mean pixel value: generated textures,0.4494
+Pixel std: real textures,0.2611
+Pixel std: generated textures,0.2227

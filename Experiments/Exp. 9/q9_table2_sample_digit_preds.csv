@@ -1,0 +1,13 @@
+Sample_ID,True_Digit,Predicted_Digit,Confidence,Correct
+1,0,0,0.2912,True
+2,4,4,0.3811,True
+3,5,3,0.1913,False
+4,1,1,0.525,True
+5,1,1,0.3821,True
+6,2,2,0.2517,True
+7,9,7,0.3098,False
+8,7,7,0.4761,True
+9,0,0,0.4411,True
+10,0,0,0.37,True
+11,9,9,0.1594,True
+12,9,7,0.2866,False

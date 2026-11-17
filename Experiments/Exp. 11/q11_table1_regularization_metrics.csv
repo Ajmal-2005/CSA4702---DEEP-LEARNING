@@ -1,0 +1,4 @@
+Model,Test_Loss,Test_Accuracy,Weight_Sparsity (<0.01),Weight_L2_Norm
+Unregularized (Baseline),0.6091,0.8133,2.7%,5.922
+L1 Regularization (Lasso),0.5715,0.76,92.5%,1.2506
+L2 Regularization (Ridge),0.5045,0.84,9.8%,2.4383

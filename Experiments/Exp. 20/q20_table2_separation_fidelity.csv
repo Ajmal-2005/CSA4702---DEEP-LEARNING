@@ -1,0 +1,3 @@
+Method,Source_1_Recovery_Correlation,Separation_Type
+Independent Component Analysis (ICA),0.9878,Non-Gaussian Independence
+PCA,0.7357,Orthogonal Variance Maximization

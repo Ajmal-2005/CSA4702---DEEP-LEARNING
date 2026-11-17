@@ -1,0 +1,17 @@
+Alarm_Flag,Original_Vector,Corrupted_Vector,Reconstructed_Prob,Binarized_Output
+Alarm_1,1,1,0.1041,0
+Alarm_2,0,0,0.0278,0
+Alarm_3,0,0,0.0569,0
+Alarm_4,0,0,0.1887,0
+Alarm_5,1,0,0.6283,1
+Alarm_6,1,1,0.7408,1
+Alarm_7,1,1,0.6942,1
+Alarm_8,1,1,0.7216,1
+Alarm_9,0,0,0.0175,0
+Alarm_10,0,0,0.0343,0
+Alarm_11,0,0,0.0785,0
+Alarm_12,0,0,0.0098,0
+Alarm_13,0,0,0.1544,0
+Alarm_14,1,1,0.2201,0
+Alarm_15,0,0,0.084,0
+Alarm_16,0,0,0.1377,0

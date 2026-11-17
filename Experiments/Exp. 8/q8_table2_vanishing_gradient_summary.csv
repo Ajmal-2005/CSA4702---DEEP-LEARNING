@@ -1,0 +1,4 @@
+Activation,Initial_Layer1_Grad,Final_Layer_Grad,Gradient_Decay_Ratio (L1/L_final)
+sigmoid,0.00057749124,0.4117647,0.0014024787
+tanh,0.10510552,0.08643497,1.2160069
+relu,0.054463647,0.11938704,0.45619395

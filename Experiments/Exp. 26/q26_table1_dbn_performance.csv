@@ -1,0 +1,4 @@
+Architecture,Layer_Structure,Classification_Accuracy
+Stacked Deep Belief Network (DBN),64 -> 100 -> 50 -> Softmax,96.59%
+Single-layer RBM + Classifier,64 -> 100 -> Softmax,94.32%
+Baseline Logistic Regression,64 -> Softmax,96.59%

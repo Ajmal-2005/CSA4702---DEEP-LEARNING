@@ -1,0 +1,121 @@
+Pair_ID,Source_Query,Target_Translation
+1,how can i reset my password,<start> comment reinitialiser mon mot de passe <end>
+2,what is the status of my order,<start> quel est le statut de ma commande <end>
+3,where can i find my monthly invoice,<start> ou puis je trouver ma facture mensuelle <end>
+4,how do i update my billing address,<start> comment mettre a jour mon adresse <end>
+5,can i cancel my subscription renewal,<start> puis je annuler mon abonnement <end>
+6,please transfer me to customer service,<start> veuillez me transferer au service client <end>
+7,why was my recent payment declined,<start> pourquoi mon paiement a ete refuse <end>
+8,how to track my package delivery,<start> comment suivre la livraison de mon colis <end>
+9,what are your available payment options,<start> quelles sont vos options de paiement <end>
+10,i want to change my contact number,<start> je veux modifier mon numero de contact <end>
+11,how can i reset my password,<start> comment reinitialiser mon mot de passe <end>
+12,what is the status of my order,<start> quel est le statut de ma commande <end>
+13,where can i find my monthly invoice,<start> ou puis je trouver ma facture mensuelle <end>
+14,how do i update my billing address,<start> comment mettre a jour mon adresse <end>
+15,can i cancel my subscription renewal,<start> puis je annuler mon abonnement <end>
+16,please transfer me to customer service,<start> veuillez me transferer au service client <end>
+17,why was my recent payment declined,<start> pourquoi mon paiement a ete refuse <end>
+18,how to track my package delivery,<start> comment suivre la livraison de mon colis <end>
+19,what are your available payment options,<start> quelles sont vos options de paiement <end>
+20,i want to change my contact number,<start> je veux modifier mon numero de contact <end>
+21,how can i reset my password,<start> comment reinitialiser mon mot de passe <end>
+22,what is the status of my order,<start> quel est le statut de ma commande <end>
+23,where can i find my monthly invoice,<start> ou puis je trouver ma facture mensuelle <end>
+24,how do i update my billing address,<start> comment mettre a jour mon adresse <end>
+25,can i cancel my subscription renewal,<start> puis je annuler mon abonnement <end>
+26,please transfer me to customer service,<start> veuillez me transferer au service client <end>
+27,why was my recent payment declined,<start> pourquoi mon paiement a ete refuse <end>
+28,how to track my package delivery,<start> comment suivre la livraison de mon colis <end>
+29,what are your available payment options,<start> quelles sont vos options de paiement <end>
+30,i want to change my contact number,<start> je veux modifier mon numero de contact <end>
+31,how can i reset my password,<start> comment reinitialiser mon mot de passe <end>
+32,what is the status of my order,<start> quel est le statut de ma commande <end>
+33,where can i find my monthly invoice,<start> ou puis je trouver ma facture mensuelle <end>
+34,how do i update my billing address,<start> comment mettre a jour mon adresse <end>
+35,can i cancel my subscription renewal,<start> puis je annuler mon abonnement <end>
+36,please transfer me to customer service,<start> veuillez me transferer au service client <end>
+37,why was my recent payment declined,<start> pourquoi mon paiement a ete refuse <end>
+38,how to track my package delivery,<start> comment suivre la livraison de mon colis <end>
+39,what are your available payment options,<start> quelles sont vos options de paiement <end>
+40,i want to change my contact number,<start> je veux modifier mon numero de contact <end>
+41,how can i reset my password,<start> comment reinitialiser mon mot de passe <end>
+42,what is the status of my order,<start> quel est le statut de ma commande <end>
+43,where can i find my monthly invoice,<start> ou puis je trouver ma facture mensuelle <end>
+44,how do i update my billing address,<start> comment mettre a jour mon adresse <end>
+45,can i cancel my subscription renewal,<start> puis je annuler mon abonnement <end>
+46,please transfer me to customer service,<start> veuillez me transferer au service client <end>
+47,why was my recent payment declined,<start> pourquoi mon paiement a ete refuse <end>
+48,how to track my package delivery,<start> comment suivre la livraison de mon colis <end>
+49,what are your available payment options,<start> quelles sont vos options de paiement <end>
+50,i want to change my contact number,<start> je veux modifier mon numero de contact <end>
+51,how can i reset my password,<start> comment reinitialiser mon mot de passe <end>
+52,what is the status of my order,<start> quel est le statut de ma commande <end>
+53,where can i find my monthly invoice,<start> ou puis je trouver ma facture mensuelle <end>
+54,how do i update my billing address,<start> comment mettre a jour mon adresse <end>
+55,can i cancel my subscription renewal,<start> puis je annuler mon abonnement <end>
+56,please transfer me to customer service,<start> veuillez me transferer au service client <end>
+57,why was my recent payment declined,<start> pourquoi mon paiement a ete refuse <end>
+58,how to track my package delivery,<start> comment suivre la livraison de mon colis <end>
+59,what are your available payment options,<start> quelles sont vos options de paiement <end>
+60,i want to change my contact number,<start> je veux modifier mon numero de contact <end>
+61,how can i reset my password,<start> comment reinitialiser mon mot de passe <end>
+62,what is the status of my order,<start> quel est le statut de ma commande <end>
+63,where can i find my monthly invoice,<start> ou puis je trouver ma facture mensuelle <end>
+64,how do i update my billing address,<start> comment mettre a jour mon adresse <end>
+65,can i cancel my subscription renewal,<start> puis je annuler mon abonnement <end>
+66,please transfer me to customer service,<start> veuillez me transferer au service client <end>
+67,why was my recent payment declined,<start> pourquoi mon paiement a ete refuse <end>
+68,how to track my package delivery,<start> comment suivre la livraison de mon colis <end>
+69,what are your available payment options,<start> quelles sont vos options de paiement <end>
+70,i want to change my contact number,<start> je veux modifier mon numero de contact <end>
+71,how can i reset my password,<start> comment reinitialiser mon mot de passe <end>
+72,what is the status of my order,<start> quel est le statut de ma commande <end>
+73,where can i find my monthly invoice,<start> ou puis je trouver ma facture mensuelle <end>
+74,how do i update my billing address,<start> comment mettre a jour mon adresse <end>
+75,can i cancel my subscription renewal,<start> puis je annuler mon abonnement <end>
+76,please transfer me to customer service,<start> veuillez me transferer au service client <end>
+77,why was my recent payment declined,<start> pourquoi mon paiement a ete refuse <end>
+78,how to track my package delivery,<start> comment suivre la livraison de mon colis <end>
+79,what are your available payment options,<start> quelles sont vos options de paiement <end>
+80,i want to change my contact number,<start> je veux modifier mon numero de contact <end>
+81,how can i reset my password,<start> comment reinitialiser mon mot de passe <end>
+82,what is the status of my order,<start> quel est le statut de ma commande <end>
+83,where can i find my monthly invoice,<start> ou puis je trouver ma facture mensuelle <end>
+84,how do i update my billing address,<start> comment mettre a jour mon adresse <end>
+85,can i cancel my subscription renewal,<start> puis je annuler mon abonnement <end>
+86,please transfer me to customer service,<start> veuillez me transferer au service client <end>
+87,why was my recent payment declined,<start> pourquoi mon paiement a ete refuse <end>
+88,how to track my package delivery,<start> comment suivre la livraison de mon colis <end>
+89,what are your available payment options,<start> quelles sont vos options de paiement <end>
+90,i want to change my contact number,<start> je veux modifier mon numero de contact <end>
+91,how can i reset my password,<start> comment reinitialiser mon mot de passe <end>
+92,what is the status of my order,<start> quel est le statut de ma commande <end>
+93,where can i find my monthly invoice,<start> ou puis je trouver ma facture mensuelle <end>
+94,how do i update my billing address,<start> comment mettre a jour mon adresse <end>
+95,can i cancel my subscription renewal,<start> puis je annuler mon abonnement <end>
+96,please transfer me to customer service,<start> veuillez me transferer au service client <end>
+97,why was my recent payment declined,<start> pourquoi mon paiement a ete refuse <end>
+98,how to track my package delivery,<start> comment suivre la livraison de mon colis <end>
+99,what are your available payment options,<start> quelles sont vos options de paiement <end>
+100,i want to change my contact number,<start> je veux modifier mon numero de contact <end>
+101,how can i reset my password,<start> comment reinitialiser mon mot de passe <end>
+102,what is the status of my order,<start> quel est le statut de ma commande <end>
+103,where can i find my monthly invoice,<start> ou puis je trouver ma facture mensuelle <end>
+104,how do i update my billing address,<start> comment mettre a jour mon adresse <end>
+105,can i cancel my subscription renewal,<start> puis je annuler mon abonnement <end>
+106,please transfer me to customer service,<start> veuillez me transferer au service client <end>
+107,why was my recent payment declined,<start> pourquoi mon paiement a ete refuse <end>
+108,how to track my package delivery,<start> comment suivre la livraison de mon colis <end>
+109,what are your available payment options,<start> quelles sont vos options de paiement <end>
+110,i want to change my contact number,<start> je veux modifier mon numero de contact <end>
+111,how can i reset my password,<start> comment reinitialiser mon mot de passe <end>
+112,what is the status of my order,<start> quel est le statut de ma commande <end>
+113,where can i find my monthly invoice,<start> ou puis je trouver ma facture mensuelle <end>
+114,how do i update my billing address,<start> comment mettre a jour mon adresse <end>
+115,can i cancel my subscription renewal,<start> puis je annuler mon abonnement <end>
+116,please transfer me to customer service,<start> veuillez me transferer au service client <end>
+117,why was my recent payment declined,<start> pourquoi mon paiement a ete refuse <end>
+118,how to track my package delivery,<start> comment suivre la livraison de mon colis <end>
+119,what are your available payment options,<start> quelles sont vos options de paiement <end>
+120,i want to change my contact number,<start> je veux modifier mon numero de contact <end>

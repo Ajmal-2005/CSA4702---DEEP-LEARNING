@@ -1,0 +1,5 @@
+Configuration,Initial_Loss,Final_Loss,Loss_Variance (Stability Metric),Status
+BGD (lr=0.01) - Smooth,16.695,5.296,0.1071,Stable
+BGD (lr=0.08) - High Rate,16.695,1.182,0.435,Stable
+SGD (lr=0.01) - Noisy,4.331,0.757,0.3005,Stable
+MiniBatch-32 (lr=0.01) - Balanced,11.437,0.757,0.3138,Stable

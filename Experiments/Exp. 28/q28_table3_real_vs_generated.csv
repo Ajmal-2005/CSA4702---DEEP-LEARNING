@@ -1,0 +1,5 @@
+Metric,Real,Generated
+Mean pixel value,0.3879,0.4916
+Pixel standard deviation,0.4144,0.4112
+Mean discriminator output,0.5911,0.2591
+Mean absolute difference of mean images,0.0,0.1325

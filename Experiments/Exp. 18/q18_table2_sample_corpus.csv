@@ -1,0 +1,11 @@
+Pair_ID,Source_Query,Target_Translation
+1,how can i reset my password,<start> comment reinitialiser mon mot de passe <end>
+2,what is the status of my order,<start> quel est le statut de ma commande <end>
+3,where can i find my monthly invoice,<start> ou puis je trouver ma facture mensuelle <end>
+4,how do i update my billing address,<start> comment mettre a jour mon adresse <end>
+5,can i cancel my subscription renewal,<start> puis je annuler mon abonnement <end>
+6,please transfer me to customer service,<start> veuillez me transferer au service client <end>
+7,why was my recent payment declined,<start> pourquoi mon paiement a ete refuse <end>
+8,how to track my package delivery,<start> comment suivre la livraison de mon colis <end>
+9,what are your available payment options,<start> quelles sont vos options de paiement <end>
+10,i want to change my contact number,<start> je veux modifier mon numero de contact <end>

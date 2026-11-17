@@ -1,0 +1,4 @@
+Architecture,Final_Val_Loss,Test_RMSE ($)
+RNN,0.00031,1.55
+LSTM,0.00171,3.658
+GRU,0.00017,1.169

@@ -1,0 +1,4 @@
+Class,Real_Samples,Own_Class_Correlation,Best_Other_Class_Correlation,Class_Controlled
+Speed_Limit (Ring),127,0.7251,0.8731,No
+Caution (Triangle),130,0.9816,0.7582,Yes
+Stop (Block),103,0.9948,0.7771,Yes

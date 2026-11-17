@@ -1,0 +1,16 @@
+Actual_Result,Predicted_Probability,Predicted_Result,Status
+0,0.0004,0,Correct
+1,1.0,1,Correct
+0,0.0,0,Correct
+1,0.9043,1,Correct
+1,0.9951,1,Correct
+0,0.0466,0,Correct
+1,0.9998,1,Correct
+0,0.0014,0,Correct
+0,0.0238,0,Correct
+0,0.0,0,Correct
+1,0.9994,1,Correct
+0,0.2317,0,Correct
+0,0.0,0,Correct
+1,0.9852,1,Correct
+0,0.0022,0,Correct
